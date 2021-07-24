@@ -302,7 +302,7 @@
             // descripcionTextBox
             // 
             this.descripcionTextBox.DataBindings.Add(new System.Windows.Forms.Binding("Text", this.listaProductosBindingSource, "Descripcion", true));
-            this.descripcionTextBox.Location = new System.Drawing.Point(123, 91);
+            this.descripcionTextBox.Location = new System.Drawing.Point(123, 87);
             this.descripcionTextBox.Name = "descripcionTextBox";
             this.descripcionTextBox.Size = new System.Drawing.Size(263, 20);
             this.descripcionTextBox.TabIndex = 4;
@@ -349,7 +349,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(421, 231);
+            this.button1.Location = new System.Drawing.Point(434, 231);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(110, 23);
             this.button1.TabIndex = 13;
